@@ -199,7 +199,7 @@ Comparing with the calculations done in the first section of this document, we o
 We do this comparison with the table with filled-in missing values.
 
 1. Augment the table with a column that indicates the day of the week
-2. Subset the table into two parts - weekends (Saturday and Sunday) and weekdays (Monday through Friday).
+2. Subset the table into two parts - weekends (Saturday and Sunday) and weekdays (Monday through Friday). 
 3. Tabulate the average steps per interval for each dataset.
 4. Plot the two datasets side by side for comparison.
 
